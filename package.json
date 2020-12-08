@@ -1,0 +1,24 @@
+{
+  "name": "fooler-gzip",
+  "version": "1.0.0",
+  "description": "Gzip for FoolerJs",
+  "main": "src/Gzip.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBye/Fooler-Gzip.git"
+  },
+  "keywords": [
+    "Fooler",
+    "Nodejs",
+    "web"
+  ],
+  "author": "NBye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBye/Fooler-Gzip/issues"
+  },
+  "homepage": "https://github.com/NBye/Fooler-Gzip#readme"
+}
